@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter, Arial, sans-serif;
+}
+
+body {
+    background: #0b0f14;
+    color: #e5e7eb;
+}
+
+header {
+    padding: 20px 30px;
+    border-bottom: 1px solid #1f2933;
+}
+
+header h1 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.subtitle {
+    font-size: 13px;
+    color: #9ca3af;
+}
+
+main {
+    padding: 30px;
+}
+
+.price-box {
+    margin-bottom: 20px;
+}
+
+.price-box span {
+    font-size: 14px;
+    color: #9ca3af;
+}
+
+#price {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 5px 0;
+    color: #22c55e;
+}
+
+.price-box small {
+    font-size: 12px;
+    color: #6b7280;
+}
+
+#chart {
+    height: 420px;
+    background: #0b0f14;
+    border: 1px solid #1f2933;
+}
+
+footer {
+    padding: 15px 30px;
+    border-top: 1px solid #1f2933;
+    font-size: 12px;
+    color: #6b7280;
+}
